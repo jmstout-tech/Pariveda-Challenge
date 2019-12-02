@@ -13,7 +13,7 @@ Sprite Sheets are custom designed by project author.
 
 Alpha Version of Big Al's Touchdown Unity Project.
 
-Various files imported from project are not in full function within the Alpha version.
+Various files imported from project are not in full function within the Alpha version and have been commented out for reference.
 
 Beta version expected to uphold 3x content compared to Alpha + additional user mechanics.
 
