@@ -5,14 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class EndMenu : MonoBehaviour
 {
-    public void PlayAgain()
+    void Start()
     {
-        SceneManager.LoadScene("Title Screen");
+        while (Input.anyKeyDown == true)
+        {
+            SceneManager.LoadScene("Title Screen");
+        }
+    }
+        public void ExitGame()
+        {
+            Debug.Log("QUIT!");
+            Application.Quit();
+        }
     }
 
-    public void ExitGame()
-    {
-        Debug.Log("QUIT!");
-        Application.Quit();
-    }
-}
+
+

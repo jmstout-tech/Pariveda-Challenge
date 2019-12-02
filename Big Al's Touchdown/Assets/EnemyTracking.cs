@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class EnemyTracking : MonoBehaviour
 {
+    //Script is Offline from Alpha.
+
+        //Beta version while utilize better components for AI Tracking including air units.
     
     public float speed;
 

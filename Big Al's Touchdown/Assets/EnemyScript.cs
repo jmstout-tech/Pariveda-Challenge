@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyScript : MonoBehaviour
 {
-    public float speed;
+    public float speed = 1.6f;
     private int health = 3;
     private Material matWhite;
     private Material matDefault;
@@ -25,6 +25,7 @@ public class EnemyScript : MonoBehaviour
 
     void Start()
     {
+        Player = GameObject.FindGameObjectWithTag("Player").transform;
         rb = GetComponent<Rigidbody2D>();
         Enemy1 = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         startpos = transform.position;

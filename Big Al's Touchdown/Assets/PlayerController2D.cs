@@ -154,8 +154,7 @@ public class PlayerController2D : MonoBehaviour
             }
             if (col.gameObject.CompareTag("Finish"))
             {
-                SceneManager.LoadScene("EndScene");
-                
+                SceneManager.LoadScene("EndScene");        
             }
         }
     }

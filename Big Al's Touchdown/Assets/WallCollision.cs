@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class WallCollision : MonoBehaviour
 {
+    //Script will instantiate more properties and compontents via Beta release.
+
     // Start is called before the first frame update
     void Start()
     {

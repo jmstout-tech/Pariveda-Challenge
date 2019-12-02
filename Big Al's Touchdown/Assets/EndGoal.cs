@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class EndGoal : MonoBehaviour
 {
+    //Script is in reserve usage.
+
+
     // Start is called before the first frame update
     void Start()
     {

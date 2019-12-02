@@ -5,6 +5,10 @@ using UnityEngine.UI;
 
 public class ScoringSystem : MonoBehaviour
 {
+    //Script is Offline from Alpha.
+
+        //Beta version while include scoring system incremented via TMPro format.
+
     //UI namespace required in order to display ScoringSystem Text on the screen. Also declaring variables within the program.
     public GameObject scoreText;
     public static int theScore;

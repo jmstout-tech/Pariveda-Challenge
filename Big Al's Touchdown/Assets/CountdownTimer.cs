@@ -5,6 +5,11 @@ using UnityEngine.UI;
 
 public class CountdownTimer: MonoBehaviour
 {
+    //Script is offline from Alpha.
+
+        //Beta version will increment Timer via TMPro while ending game at 0 frame.
+
+
     //Declares what the timer will start at in the program.
     float currentTime = 0f;
     float startingTime = 300f;

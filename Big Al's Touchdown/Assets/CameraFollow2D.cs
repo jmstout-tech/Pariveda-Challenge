@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class CameraFollow2D : MonoBehaviour
 {
+    //Alpha version of Camera utilization.
+
+        //Beta version will include updated Camera Follow format + incrementing Camera Boundaries to lock frame position to prevent free fall pov/mechanism.
+
     //Declare the component to track the player within unity.
     [SerializeField]
     GameObject player;
