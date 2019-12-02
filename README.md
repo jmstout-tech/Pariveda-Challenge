@@ -6,7 +6,9 @@ Disclaimer: Credit to Rick Bruns for granting permission of hereby using SMW Spr
 
 Alpha Stage of Big Al's Touchdown Unity Project.
 
-Various files imported from project are not in full usage within the Alpha to date.
+Various files imported from project are not in full function within the Alpha to date.
+
+Beta version expected to uphold 3x content compared to Alpha + additional user mechanics.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
