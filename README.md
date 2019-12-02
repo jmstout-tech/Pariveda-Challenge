@@ -4,6 +4,8 @@ READ BELOW:
 
 IMPORTANT! Visual Studio 2017 and Unity 2018.3.14 are REQUIRED for the project to run and import in all assets and logic without error.
 
+IMPORTANT! Game MUST be run on Windowed Screen, do not operate on Fullscreen.
+
 Big Al's Touchdown Pariveda Project
 
 Controls on Title Screen are operated via Mouse.
