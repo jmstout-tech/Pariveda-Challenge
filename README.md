@@ -2,7 +2,7 @@
 
 READ BELOW:
 
-IMPORTANT! Visual Studio 2017 and Unity 2018.3.14 are REQUIRED for the project to fully import in all assets and logic without error.
+IMPORTANT! Visual Studio 2017 and Unity 2018.3.14 are REQUIRED for the project to run and import in all assets and logic without error.
 
 Big Al's Touchdown Pariveda Project
 
